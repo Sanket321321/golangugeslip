@@ -744,3 +744,27 @@ device.
 devices with single-board computers. You can adapt the code to control other devices 
 based on sensor readings or user input.
 Digram : draw block diagram arduino uno board interfacing with ir sensor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
